@@ -24,6 +24,9 @@ build/
 *.log
 *.tmp
 
+# 模型压缩包（已传到 Releases，不放进 git）
+*.zip
+
 # 系统文件
 .DS_Store
 Thumbs.db
